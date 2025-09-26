@@ -1,0 +1,52 @@
+body {
+    background-color: lightgray;
+}
+#titulo-principal {
+    text-align: center;
+    font-size: 50px;
+    font-family: Andale Mono, monospace;
+    background-color: white;
+
+}
+.identificacao {
+    display: flex;
+}
+#foto {
+    width: 120px;
+    height: 120px;
+}
+#nome {
+    margin-left: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#descricao {
+    font-family: FreeMono, monospace;
+}
+.sub-titulo {
+    text-align: center;
+    font-family: Andale Mono, monospace;
+    margin-top: 40px;
+    margin-bottom: 0;
+    background-color: white;
+
+}
+.frase {
+    margin-top: 0px;
+    display: flex;
+}
+#funda-html-css {
+    margin: 0;
+    margin-left: 10px;
+}
+#instituto {
+    margin: 0;
+    margin-left: 10px;
+}
+#html-css-avan {
+    margin: 0;
+    margin-left: 10px;
+}
+#funda-js {
+    margin: 0;
+    margin-left: 10px;
+}
