@@ -1,5 +1,8 @@
 body {
     background-color: lightgray;
+    margin: 80px;
+    padding: 3px;
+    border: 2px solid black;
 }
 #titulo-principal {
     text-align: center;
